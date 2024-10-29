@@ -1,0 +1,13 @@
+@@ -233,10 +233,10 @@ <h2 class="contato__titulo">Fique por dentro das novidades!</h2>
+        Atualizações de e-books, novos livros, promoções e outros.
+      </p>
+    </div>
+    <input type="email" placeholder="Cadastre seu e-mail" class="contato__email" />
+    <input type="email" placeholder="        Cadastre seu e-mail"  class="contato__email" />
+  </section>
+
+  <hr />
+  <hr/>
+
+  <footer class="rodapé">
+    <h2 class="rodapé__titulo">Grupo Alura</h2>
